@@ -2,7 +2,7 @@
 ### Aprende React JS con Hooks desde cero y desarrolla aplicaciones web con el MERN Stack (Portafolio, Blog y Red Social)
 
 
-## Ejercicios de mi Port-folio por PAULA DE JUAN SEGURA
+## Ejercicios de mi Port-folio por PAULA DE JUAN : ([PAULA DE JUAN SEGURA -- https://pauladjs.wordpress.com/](https://pauladjs.wordpress.com/))
 
 ![Master en React](image.png)
 
